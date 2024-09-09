@@ -9,8 +9,11 @@ let iterations = target - fibos.length
 //make a loop
 for (let i = 0; i < iterations; i++){
     let nextFibo = fibos[i] + fibos[i + 1];
+    // console.log(nextFibo)
     fibos.push(nextFibo);
 }
+console.log("fibos", fibos)
 
 //log the 20th number
 console.log(fibos[19])
+
