@@ -14,5 +14,5 @@ function getSum(a, b){
     return a
 }
 
-console.log(getSum(5, 0)) // 5 but am getting 0 instead of 5
+console.log(getSum(5, 0)) // 5 correct
 console.log(getSum(5, 3)) // 8 correct
