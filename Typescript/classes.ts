@@ -15,3 +15,18 @@ class UserAccount {
 
 const user1: User = new UserAccount("King", 1);
 
+
+class Animal {
+    feet: number;
+    constructor(name: string, numFeet: number){}
+}
+
+class Size {
+    feet: number;
+    constructor(numFeet: number){}
+}
+
+let a: Animal;
+let s: Size;
+
+
