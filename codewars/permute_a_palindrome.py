@@ -16,12 +16,19 @@ def permute_a_palindrome(input):
 def permute_a_palindrome(input):
     return sum([1 for i in set(input) if input.count(i) % 2]) < 2
 
-print(permute_a_palindrome('tactcoa')) # True
+# print(permute_a_palindrome('tactcoa')) # True
 
 # easy solution
 def permute_a_palindrome(input):
     flag = 0
     for i in set(input):
+        print(input)
         if input.count(i) % 2 == 1:
+            print("flag no increment: ", flag)
             flag += 1
+            print("flag + 1: ", flag)
+            print("i", i )
+            print("input count", input.count(i))
     return flag < 2
+
+print(permute_a_palindrome("tactcoa"))
