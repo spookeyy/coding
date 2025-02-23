@@ -120,7 +120,7 @@ This repository is a collection of coding exercises and algorithms written in va
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/spookeyy/coding.git
    ```
 2. Navigate to the project:
    ```bash
