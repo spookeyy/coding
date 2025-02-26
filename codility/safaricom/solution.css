@@ -1,0 +1,43 @@
+#nav ul {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#nav li {
+    position: relative;
+    flex: 1;
+    text-align: center;
+}
+
+#nav li a:hover {
+    background: #915fa6;
+    color: #FFFFFF;
+}
+
+#nav li ul {
+    top: 40px;
+    left: 0;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+#nav li ul li{
+    width: 100%;
+}
+
+#nav li ul li a {
+    text-align: left;
+    padding: 10px 25px;
+}
+
+#nav li:hover > ul {
+    display: block;
+}
+
+#nav li:nth-child(4) a {
+    background-color: purple;
+}
