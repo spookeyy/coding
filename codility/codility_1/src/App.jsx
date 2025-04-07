@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import Formatter from "./component/Formatter";
+import SpacebarCounter from "./component/SpaceBarCounter";
 
 const App = () => {
   const config = {
@@ -9,6 +10,8 @@ const App = () => {
   };
 
   return (
+    <>
+    <SpacebarCounter />
     <div className="App">
       <h1>Formatter Example</h1>
       <Formatter
@@ -25,6 +28,7 @@ const App = () => {
       <br />
       <Formatter text="Another text" value={999} config={{}} />
     </div>
+    </>
   );
 };
 
