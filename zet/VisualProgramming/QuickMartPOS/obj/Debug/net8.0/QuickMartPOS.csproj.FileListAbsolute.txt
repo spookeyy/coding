@@ -1,0 +1,15 @@
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net8.0/QuickMartPOS.GeneratedMSBuildEditorConfig.editorconfig
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net8.0/QuickMartPOS.AssemblyInfoInputs.cache
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net8.0/QuickMartPOS.AssemblyInfo.cs
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net8.0/QuickMartPOS.csproj.CoreCompileInputs.cache
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net8.0/QuickMartPOS.sourcelink.json
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/bin/Debug/net8.0/QuickMartPOS
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/bin/Debug/net8.0/QuickMartPOS.deps.json
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/bin/Debug/net8.0/QuickMartPOS.runtimeconfig.json
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/bin/Debug/net8.0/QuickMartPOS.dll
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/bin/Debug/net8.0/QuickMartPOS.pdb
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net8.0/QuickMartPOS.dll
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net8.0/refint/QuickMartPOS.dll
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net8.0/QuickMartPOS.pdb
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net8.0/QuickMartPOS.genruntimeconfig.cache
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net8.0/ref/QuickMartPOS.dll

@@ -1,0 +1,5 @@
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net6.0/QuickMartPOS.GeneratedMSBuildEditorConfig.editorconfig
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net6.0/QuickMartPOS.AssemblyInfoInputs.cache
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net6.0/QuickMartPOS.AssemblyInfo.cs
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net6.0/QuickMartPOS.csproj.CoreCompileInputs.cache
+/home/spookie/Moringa/coding/zet/VisualProgramming/QuickMartPOS/obj/Debug/net6.0/QuickMartPOS.sourcelink.json
