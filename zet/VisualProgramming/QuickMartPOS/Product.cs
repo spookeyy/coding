@@ -27,7 +27,8 @@ public class Product
     public static Product CreateFromInput()
     {
         Console.Write("Enter product name: ");
-        string name = Console.ReadLine();
+        string? inputName = Console.ReadLine();
+        string name = inputName ?? string.Empty;
 
         decimal price;
         while (true)
@@ -46,7 +47,7 @@ public class Product
         while (true)
         {
             Console.Write("Enter choice (1–3): ");
-            string choice = Console.ReadLine();
+            string? choice = Console.ReadLine();
             switch (choice)
             {
                 case "1":
